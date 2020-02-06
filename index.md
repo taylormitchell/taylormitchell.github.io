@@ -1,7 +1,6 @@
-Hello and welcome to this blog. Edit the `index.md` file to change this content. All pages on the blog, including this one, use [Markdown](https://guides.github.com/features/mastering-markdown/). You can include images:
+## Taylor Internet Home
 
-![Image of fast.ai logo](images/logo.png)
+This is where Taylor lives online.
 
-## This is a title
+![](https://images2.alphacoders.com/739/thumb-1920-73940.jpg)
 
-And you can include links, like this [link to fast.ai](https://www.fast.ai). Posts will appear after this file. 
